@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a604917-7b94-4571-86da-75c35614e3fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1_outline.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jqvRPJAQKIFmnUbz247QU4efII" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/A1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="A2" />
+      <option name="PROGRAM_PARAMETERS" value="-f hw2_a.ps -m -250 -n -200 &gt; hw2_ex2.pbm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="A2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="A2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a604917-7b94-4571-86da-75c35614e3fd" name="Default Changelist" comment="" />
+      <created>1604544427822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604544427822</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="30" width="1071" height="804" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604963049028">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="287" y="76" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1604595250435" />
+    <state x="229" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1604963049028" />
+    <state x="369" y="45" width="1071" height="804" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1604961999266" />
+    <state x="198" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1604637571183" />
+    <state x="424" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604594871466">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="424" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1604594871466" />
+    <state x="560" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604639572140">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="560" y="223" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.823@0.23.1440.823" timestamp="1604589199152" />
+    <state x="560" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.826@0.23.1440.826" timestamp="1604639572140" />
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1604633715165">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/0.23.1440.827@0.23.1440.827" timestamp="1604633715165" />
+    <state width="1070" height="199" key="GridCell.Tab.0.bottom" timestamp="1604971446780">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1160" height="166" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604595228108" />
+    <state width="1070" height="199" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1604971446780" />
+    <state width="1070" height="199" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1604962671484" />
+    <state width="1070" height="289" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604639201338" />
+    <state width="1070" height="199" key="GridCell.Tab.0.center" timestamp="1604971446779">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1160" height="166" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604595228107" />
+    <state width="1070" height="199" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1604971446779" />
+    <state width="1070" height="199" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1604962671483" />
+    <state width="1070" height="289" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1604639201336" />
+    <state width="1070" height="199" key="GridCell.Tab.0.left" timestamp="1604971446778">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1160" height="166" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604595228107" />
+    <state width="1070" height="199" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1604971446778" />
+    <state width="1070" height="199" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1604962671483" />
+    <state width="1070" height="289" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1604639201336" />
+    <state width="1070" height="199" key="GridCell.Tab.0.right" timestamp="1604971446779">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1160" height="166" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604595228108" />
+    <state width="1070" height="199" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1604971446779" />
+    <state width="1070" height="199" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1604962671484" />
+    <state width="1070" height="289" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1604639201337" />
+    <state width="1070" height="317" key="GridCell.Tab.1.bottom" timestamp="1604971374342">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604594652446" />
+    <state width="1070" height="317" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1604971374342" />
+    <state width="1070" height="317" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1604957371059" />
+    <state width="1070" height="289" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604639201340" />
+    <state width="1070" height="317" key="GridCell.Tab.1.center" timestamp="1604971374337">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1604594652444" />
+    <state width="1070" height="317" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1604971374337" />
+    <state width="1070" height="317" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1604957371058" />
+    <state width="1070" height="289" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1604639201339" />
+    <state width="1070" height="317" key="GridCell.Tab.1.left" timestamp="1604971374337">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1604594652443" />
+    <state width="1070" height="317" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1604971374337" />
+    <state width="1070" height="317" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1604957371058" />
+    <state width="1070" height="289" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1604639201338" />
+    <state width="1070" height="317" key="GridCell.Tab.1.right" timestamp="1604971374340">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1604594652445" />
+    <state width="1070" height="317" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1604971374340" />
+    <state width="1070" height="317" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1604957371059" />
+    <state width="1070" height="289" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1604639201339" />
+    <state x="228" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1604589649302">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="228" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1604589649302" />
+    <state x="1" y="123" width="1384" height="581" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604955163865">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="1" y="123" width="1384" height="581" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.825@0.23.1440.825" timestamp="1604952687691" />
+    <state x="1" y="123" width="1384" height="581" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.826@0.23.1440.826" timestamp="1604955163865" />
+    <state x="260" y="123" width="912" height="582" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.827@0.23.1440.827" timestamp="1604635528135" />
+    <state x="296" y="158" width="1002" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604957302080">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="296" y="157" width="1002" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.823@0.23.1440.823" timestamp="1604593361695" />
+    <state x="296" y="158" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.826@0.23.1440.826" timestamp="1604957302080" />
+    <state x="296" y="158" width="1002" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.827@0.23.1440.827" timestamp="1604630952572" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Image.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Image" memberName="lines" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
